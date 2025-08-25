@@ -1,6 +1,6 @@
 class main 
 {
-    public static void main(String args[])
+public static void main(String[] args)
 {
     byte b = 125;
     byte a = 30;
